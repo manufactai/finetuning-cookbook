@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="images/robbie-finetuna.png" alt="Factory Logo" width="200"/>
+  <img src="_img/robbie-finetuna.png" alt="Factory Logo" width="200"/>
 </p>
 
 # Factory Finetuning Cookbook
