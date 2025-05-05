@@ -19,6 +19,20 @@ This repository provides:
 
 ---
 
+## 📚 Tutorials & Examples
+
+### Available Notebooks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ieno-JWyKFIVf3rKxrudLSQZmh_1AtdK?usp=sharing) **Financial Sentiment Analysis** - Fine-tune Qwen 2.5 for financial sentiment analysis
+
+### Coming Soon
+
+- Fine-tuning Qwen 3.0
+- Fine-tuning ModelOne (Vision)
+- Fine-tuning Qwen 2.5 VL (Vision & Language)
+
+---
+
 ## 🧰 Requirements
 
 To use this repository, you need:
